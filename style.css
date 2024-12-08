@@ -180,14 +180,7 @@ nav ul li a:hover {
 }
 
 /* Mục Sự Kiện và Tin Tức */
-main {
-    padding: 20px;
-}
 
-h2 {
-    color: #333;
-    margin-bottom: 20px;
-}
 
 .event, .news-item {
     background-color: white;
