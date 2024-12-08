@@ -290,3 +290,15 @@ form input[type="submit"] {
 form input[type="submit"]:hover {
     background-color: #0056b3;
 }
+/* Tạo kiểu cho các liên kết Tìm hiểu thêm */
+.village a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.village a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
